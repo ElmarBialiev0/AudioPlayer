@@ -1,0 +1,12 @@
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer_MarkupCompile.cache
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.g.resources
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.Properties.Resources.resources
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.AssemblyInfoInputs.cache
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.AssemblyInfo.cs
+C:\Users\biali\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.CoreCompileInputs.cache
